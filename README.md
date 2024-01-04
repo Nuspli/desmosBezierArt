@@ -26,8 +26,8 @@ usage: copytool.exe <filename> <start> <end>
        ex. 0 1 copies the first two segments, 2 4 the next three
 ```
 
-(this mini project was used in a desmos art competition for my calculus class)
-here are some examples
+this mini project was used in a desmos art competition for my calculus class.
+here are some examples:
 
 [https://www.desmos.com/calculator/jxbegj9lg6](https://www.desmos.com/calculator/jxbegj9lg6)
 [https://www.desmos.com/calculator/g5b3kzajlq](https://www.desmos.com/calculator/g5b3kzajlq)
