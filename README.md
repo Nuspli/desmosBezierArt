@@ -13,7 +13,7 @@ depending on your choice, install either `pypotrace numpy opencv-python` on unix
 
 ## copy tool
 
-c tool specifically designed to help transfer the output txt file to desmos website.
+crappy copy/paste tool specifically designed to help transfer the output txt file to desmos website.
 desmos can't handle huge amount of copy and pasted text at once so its necessary to split it up.
 one easy way to do that is to use my tool.
 the python script will tell you how many line segments were written to the file, so use that as a hint for
