@@ -27,3 +27,7 @@ usage: copytool.exe <filename> <start> <end>
 ```
 
 (this mini project was used in a desmos art competition for my calculus class)
+here are some examples
+![trick](https://www.desmos.com/calculator/jxbegj9lg6)
+![popcat](https://www.desmos.com/calculator/g5b3kzajlq))
+![santa](https://www.desmos.com/calculator/sevalhi0zk)
