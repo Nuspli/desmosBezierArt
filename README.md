@@ -17,7 +17,7 @@ crappy copy/paste tool specifically designed to help transfer the output txt fil
 desmos can't handle huge amount of copy and pasted text at once so its necessary to split it up.
 one easy way to do that is to use my tool.
 the python script will tell you how many line segments were written to the file, so use that as a hint for
-what to set the bounds to.
+what to set the bounds to. In my experiece desmos takes line segments in steps of ~300 pretty well
 
 ```txt
 usage: copytool.exe <filename> <start> <end>
