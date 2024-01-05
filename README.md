@@ -9,7 +9,7 @@ the python code is not very optimized for performance since it relies on a pure 
 > If speed is a requirement for you, use the unix version and the original potrace library
 > If you are on windows and don't have access to a unix system, try wsl/wsl2
 
-depending on your choice, install either `pypotrace numpy opencv-python` on unix or `pypotracer numpy opencv-python Pillow` on windows
+depending on your choice, install either `pypotrace numpy opencv-python` on unix or `pypotracer numpy opencv-python Pillow` on windows via pip
 
 ## copy tool
 
