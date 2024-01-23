@@ -6,7 +6,7 @@
 
 the python code is not very optimized for performance since it relies on a pure python port of [potrace](https://github.com/tatarize/potrace)
 
-> If speed is a requirement for you, use the unix version and the original potrace library
+> If speed is a requirement for you, use the unix version and the original potrace library.
 > If you are on windows and don't have access to a unix system, try wsl/wsl2
 
 depending on your choice, install either `pypotrace numpy opencv-python` on unix or `pypotracer numpy opencv-python Pillow` on windows via pip
@@ -29,6 +29,6 @@ usage: copytool.exe <filename> <start> <end>
 this mini project was used in a desmos art competition for my calculus class.
 here are some examples:
 
-[https://www.desmos.com/calculator/jxbegj9lg6](https://www.desmos.com/calculator/jxbegj9lg6)
 [https://www.desmos.com/calculator/g5b3kzajlq](https://www.desmos.com/calculator/g5b3kzajlq)
+[https://www.desmos.com/calculator/jxbegj9lg6](https://www.desmos.com/calculator/jxbegj9lg6)
 [https://www.desmos.com/calculator/sevalhi0zk](https://www.desmos.com/calculator/sevalhi0zk)
